@@ -76,7 +76,7 @@ This repository may include:
 
 ## 📣 Stay Updated
 
-🔗 https://www.aisecuritysummit.io/  
+🔗 https://www.devsecai.io/ https://www.aisecuritysummit.io/  
 🐦 https://www.linkedin.com/company/devsecai/posts/?feedView=all  
 📧 [Contact email]
 
