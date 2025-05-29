@@ -6,7 +6,7 @@ Welcome to the official repository for the **AI Security Summit 2025**, where cy
 
 ## Welcome & Why AI Security Will Change Cyber Security
 
-Organisations are adopting AI at speed — but **security is being left behind**.
+Organisations are adopting AI at speed - but **security is being left behind**.
 
 Traditional cyber security methods are not designed to address the **unique threats posed by AI**. From model manipulation to adversarial prompts, the risks are growing - and so is the divide between cyber professionals and AI developers.
 
