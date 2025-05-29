@@ -16,16 +16,16 @@ labels = ["Spam", "Spam", "Ham", "Ham"]
 vectorizer = CountVectorizer()
 X_train = vectorizer.fit_transform(texts)
 
-# Step 4: Train the Naive Bayes Model
+# Step 4: Train the Model
 model = MultinomialNB()
 model.fit(X_train, labels)
 
-# Sanitize Input Function
+# Sanitise Input Function
 def sanitize_input(text):
     cleaned = re.sub(r"[^a-zA-Z0-9\s]", "", text)  # Remove special characters
     return cleaned.strip()[:280]  # Limit length
 
-# Step 5: Test the Model with Sanitization
+# Step 5: Test the Model with Sanitisation
 new_texts = ["Free Toy!", "See you tomorrow!"]
 new_texts = [sanitize_input(t) for t in new_texts]
 
