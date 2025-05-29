@@ -8,7 +8,7 @@ Welcome to the official repository for the **AI Security Summit 2025**, where cy
 
 Organisations are adopting AI at speed — but **security is being left behind**.
 
-Traditional cyber security methods are not designed to address the **unique threats posed by AI**. From model manipulation to adversarial prompts, the risks are growing — and so is the divide between cyber professionals and AI developers.
+Traditional cyber security methods are not designed to address the **unique threats posed by AI**. From model manipulation to adversarial prompts, the risks are growing - and so is the divide between cyber professionals and AI developers.
 
 ### Why This Matters:
 -  Traditional cyber security falls short when faced with AI-specific attack vectors such as model inversion, data poisoning, and prompt injection.
@@ -53,24 +53,6 @@ Our summit is designed to give attendees a **comprehensive view of AI security**
 
 - **Closing Thoughts**  
   A summary of key takeaways and a roadmap for building a secure AI future.
-
----
-
-## 📂 Repository Contents
-
-This repository may include:
--  Demo scripts and notebooks
--  Presentation slides
--  Resources, links, and templates
--  Tools for testing AI vulnerabilities
-
----
-
-##  Get Involved
-
-- **Follow the discussions**: Engage in GitHub Issues or our summit forum.
-- **Try the demos**: Clone the repo and test drive real AI security scenarios.
-- **Contribute**: Share tools, feedback, or suggest sessions for next year!
 
 ---
 
