@@ -62,6 +62,6 @@ Our summit is designed to give attendees a **comprehensive view of AI security**
 🐦 https://www.linkedin.com/company/devsecai/posts/?feedView=all  
 📧 [Contact email]
 
-Let’s build a secure future for AI — together.  
+Let’s build a secure future for AI - together.  
 **#AISecuritySummit2025**
 
